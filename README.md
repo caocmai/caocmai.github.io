@@ -5,3 +5,8 @@
 
 ## About Me
 Building iOS apps and web apps
+
+## Some of My Projects
+[Breakout Game](https://github.com/caocmai/breakout-game) [Play](https://caomai.live/breakout-game/)
+[SpotiFav](https://github.com/caocmai/spotiFav)
+[Taskee](https://github.com/caocmai/taskee-app)
