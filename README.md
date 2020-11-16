@@ -4,7 +4,7 @@
 </p>
 
 ## About Me
-Mostly building iOS apps but sometimes dabble in web apps as well.
+Mostly build iOS apps but sometimes dabble in web apps as well.
 <br><br><br>
 Below are some of my projects:
 
