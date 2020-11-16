@@ -5,8 +5,12 @@
 
 ## About Me
 Mostly building iOS apps but sometimes dabble in web apps as well.
+<br><br><br>
+Below are some of my projects:
 
-## Some of My Projects
-[Breakout Game](https://github.com/caocmai/breakout-game) [Play](https://caomai.live/breakout-game/) <br/>
-[SpotiFav](https://github.com/caocmai/spotiFav) <br/>
-[Taskee](https://github.com/caocmai/taskee-app) <br/>
+| Project Name                                                  | Tech Stack        | Live Link         |
+| :---                                                          | :---:             | ---:              | 
+| [Breakout Game](https://github.com/caocmai/breakout-game)     | Javascript        | [Play](https://caomai.live/breakout-game/)        |
+| [SpotiFav](https://github.com/caocmai/spotiFav)               | Swift             | N/A          |
+| [Taskee](https://github.com/caocmai/taskee-app)               | Swift             | N/A          |
+
