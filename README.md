@@ -19,4 +19,6 @@ Below are some of my projects:
 | [Driking Fountain API](https://github.com/caocmai/drinking-fountains-api) | NodeJS | N/A |
 | [Maker](https://github.com/caocmai/maker) | Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) |
 | [Get News](https://github.com/caocmai/get-news-app) | Swift | N/A |
+| [Next Chord](https://github.com/caocmai/next-chord) | Swift | N/A |
+| [Takk-Token](https://github.com/ellojess/Takk-Token) | Solidity | N/A |
 
