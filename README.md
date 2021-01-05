@@ -8,14 +8,14 @@ Mostly build iOS apps but sometimes dabble in web apps as well.
 <br><br><br>
 Below are some of my projects:
 
-| Project Name                                                  | Tech Stack        | Live Link         |
-| :---                                                          | :---:             | ---:              | 
-| [Breakout Game](https://github.com/caocmai/breakout-game)     | Javascript        | [Play](https://caomai.live/breakout-game/)        |
-| [SpotiFav](https://github.com/caocmai/spotiFav)               | Swift             | N/A          |
-| [Taskee](https://github.com/caocmai/taskee-app)               | Swift             | N/A          |
-| [Custom Framework](https://github.com/caocmai/custom-css-framework)               | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         |
-| [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb) | ReactJS         | [Link](https://caocmai.github.io/react-themoviedb) |
-| [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | Django/React/...  | [Link](https://carbon0.herokuapp.com/) |
+| Project Name                                                  | Tech Stack        | Live Link         | Team Project? |
+| :---                                                          | :---:             | ---:              | ---:          |
+| [Breakout Game](https://github.com/caocmai/breakout-game)     | Javascript        | [Play](https://caomai.live/breakout-game/)        | No |
+| [SpotiFav](https://github.com/caocmai/spotiFav)               | Swift             | N/A          | No| 
+| [Taskee](https://github.com/caocmai/taskee-app)               | Swift             | N/A          | No |
+| [Custom Framework](https://github.com/caocmai/custom-css-framework)               | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         | No |
+| [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb) | ReactJS         | [Link](https://caocmai.github.io/react-themoviedb) | No |
+| [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Yes |
 | [Driking Fountain API](https://github.com/caocmai/drinking-fountains-api) | NodeJS | N/A |
 | [Maker](https://github.com/caocmai/maker) | Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) |
 | [Get News](https://github.com/caocmai/get-news-app) | Swift | N/A |
