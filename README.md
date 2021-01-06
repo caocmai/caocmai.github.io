@@ -21,4 +21,5 @@ Below are some of my projects:
 | [Get News](https://github.com/caocmai/get-news-app) | Swift | N/A | Solo |
 | [Next Chord](https://github.com/caocmai/next-chord) | Swift | N/A | Solo |
 | [Takk-Token](https://github.com/ellojess/Takk-Token) | Solidity | N/A | Team |
+| [Open Weather API](https://github.com/caocmai/open-weather-api) | Swift | N/A | Solo
 
