@@ -16,7 +16,7 @@ Below are some of my projects:
 | [Custom Framework](https://github.com/caocmai/custom-css-framework)               | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         | Solo |
 | [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb) | ReactJS         | [Link](https://caocmai.github.io/react-themoviedb) | Solo |
 | [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Team |
-| [Driking Fountain API](https://github.com/caocmai/drinking-fountains-api) | NodeJS | N/A | Solo |
+| [Drinking Fountain API](https://github.com/caocmai/drinking-fountains-api) | NodeJS | N/A | Solo |
 | [Maker](https://github.com/caocmai/maker) | Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) | Team |
 | [Get News](https://github.com/caocmai/get-news-app) | Swift | N/A | Solo |
 | [Next Chord](https://github.com/caocmai/next-chord) | Swift | N/A | Solo |
