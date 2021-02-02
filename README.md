@@ -4,7 +4,7 @@
 </p>
 
 ## About Me
-Mostly build iOS apps but sometimes dabble in web apps as well.
+Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio](https://www.makeschool.com/portfolio/cao-mai)
 <br><br><br>
 Below are some of my projects:
 
@@ -23,3 +23,4 @@ Below are some of my projects:
 | [Takk-Token](https://github.com/ellojess/Takk-Token) | Solidity | N/A | Team |
 | [Open Weather API](https://github.com/caocmai/open-weather-api) | Swift | N/A | Solo
 | [PLU Trainer](https://github.com/MondaleFelix/PLUTrainer) | Swift | N/A | Team |
+| [RecorderPlus](https://github.com/caocmai/Recorder-Plus) | Swift | N/A | Solo |
