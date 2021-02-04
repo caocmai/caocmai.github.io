@@ -8,6 +8,7 @@ Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio]
 
 
 #### Sample Projects
+<br>
 | Project Name                                                  | Tech Stack        | Live Link         | Team/Solo|
 | :---                                                          | :---:             | ---:              | ---:          |
 | [Breakout Game](https://github.com/caocmai/breakout-game)     | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
@@ -28,7 +29,8 @@ Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio]
 
 
 #### Older Projects
+<br>
 | Project Name | Tech Stack | Live Link | Team/Solo|
-| :---          | :---:      | :---      | ---:      |
+| :---          | :---:      | ---:      | ---:      |
 | [Clone Website](https://github.com/caocmai/Clone-URL) | HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
 | [Launch Page](https://github.com/caocmai/launch-page) | HTML/CSS | [Link](https://caocmai.github.io/launch-page) | Solo | 
