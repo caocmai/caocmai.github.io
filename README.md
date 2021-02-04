@@ -5,7 +5,7 @@
 
 ## About Me
 Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio](https://www.makeschool.com/portfolio/cao-mai)
-<br>
+
 
 #### Sample Projects
 | Project Name                                                  | Tech Stack        | Live Link         | Team/Solo|
@@ -25,7 +25,8 @@ Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio]
 | [PLU Trainer](https://github.com/MondaleFelix/PLUTrainer) | Swift | N/A | Team |
 | [RecorderPlus](https://github.com/caocmai/Recorder-Plus) | Swift | N/A | Solo |
 | [Die Roller](https://github.com/caocmai/die-roller) | Kotlin | N/A | Solo |
-<br>
+
+
 #### Older Projects
 | Project Name | Tech Stack | Live Link | Team/Solo|
 | :---          | :---:      | :---      | ---:      |
