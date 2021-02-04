@@ -25,3 +25,9 @@ Below are some of my projects:
 | [PLU Trainer](https://github.com/MondaleFelix/PLUTrainer) | Swift | N/A | Team |
 | [RecorderPlus](https://github.com/caocmai/Recorder-Plus) | Swift | N/A | Solo |
 | [Die Roller](https://github.com/caocmai/die-roller) | Kotlin | N/A | Solo |
+
+Older Projects
+| Project Name | Tech Stack | Live Link | Team/Solo|
+| :---          | :---      | :---      | :---      |
+| [Clone Website] | HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
+| [Launch Page] | HTML/CSS | [Link](https://caocmai.github.io/launch-page) | Solo| 
