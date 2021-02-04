@@ -26,8 +26,8 @@ Below are some of my projects:
 | [RecorderPlus](https://github.com/caocmai/Recorder-Plus) | Swift | N/A | Solo |
 | [Die Roller](https://github.com/caocmai/die-roller) | Kotlin | N/A | Solo |
 
-Older Projects
+#### Older Projects
 | Project Name | Tech Stack | Live Link | Team/Solo|
 | :---          | :---      | :---      | :---      |
-| [Clone Website] | HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
-| [Launch Page] | HTML/CSS | [Link](https://caocmai.github.io/launch-page) | Solo| 
+| [Clone Website](https://github.com/caocmai/Clone-URL) | HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
+| [Launch Page](https://github.com/caocmai/launch-page) | HTML/CSS | [Link](https://caocmai.github.io/launch-page) | Solo| 
