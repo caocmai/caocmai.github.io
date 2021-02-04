@@ -8,7 +8,7 @@ Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio]
 <br><br><br>
 Below are some of my projects:
 
-| Project Name                                                  | Tech Stack        | Live Link         | Team or Solo|
+| Project Name                                                  | Tech Stack        | Live Link         | Team/Solo|
 | :---                                                          | :---:             | ---:              | ---:          |
 | [Breakout Game](https://github.com/caocmai/breakout-game)     | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
 | [SpotiFav](https://github.com/caocmai/spotiFav)               | Swift             | N/A          | Solo | 
