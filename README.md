@@ -26,7 +26,7 @@ Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio]
 | [PLU Trainer](https://github.com/MondaleFelix/PLUTrainer) | Swift | N/A | Team |
 | [RecorderPlus](https://github.com/caocmai/Recorder-Plus) | Swift | N/A | Solo |
 | [Die Roller](https://github.com/caocmai/die-roller) | Kotlin | N/A | Solo |
-
+| ------ | ----- | ---- | ----- |
 
 #### Older Projects
 
