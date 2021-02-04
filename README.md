@@ -24,3 +24,4 @@ Below are some of my projects:
 | [Open Weather API](https://github.com/caocmai/open-weather-api) | Swift | N/A | Solo
 | [PLU Trainer](https://github.com/MondaleFelix/PLUTrainer) | Swift | N/A | Team |
 | [RecorderPlus](https://github.com/caocmai/Recorder-Plus) | Swift | N/A | Solo |
+| [Die Roller](https://github.com/caocmai/die-roller) | Kotlin | N/A | Solo |
