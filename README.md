@@ -6,8 +6,8 @@
 ## About Me
 Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio](https://www.makeschool.com/portfolio/cao-mai)
 <br><br><br>
-Below are some of my projects:
 
+#### Sample Projects
 | Project Name                                                  | Tech Stack        | Live Link         | Team/Solo|
 | :---                                                          | :---:             | ---:              | ---:          |
 | [Breakout Game](https://github.com/caocmai/breakout-game)     | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
