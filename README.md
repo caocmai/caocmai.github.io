@@ -32,11 +32,10 @@ Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio]
 
 | Project Name | Tech Stack | Live Link | Team/Solo|
 | :---          | :---:      | ---:      | ---:      |
-| [Clone Website](https://github.com/caocmai/Clone-URL) | HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
-| [Launch Page](https://github.com/caocmai/launch-page) | HTML/CSS | [Link](https://caocmai.github.io/launch-page) | Solo | 
-| [Capstone Page](https://github.com/caocmai/Capstone) | HTML/CSS | [Link](https://caocmai.github.io/Capstone/) | Solo |
-| [GifSearch](https://github.com/NinjaAung/gifSearch) | Flask/CSS | N/A | Team | 
-| [GifSearchJS](https://github.com/caocmai/gif-search) | JS/HTML | [Link](https://caocmai.github.io/gif-search/) | Solo |
-| [Tip Calc](https://github.com/caocmai/tip-calc-v2) | JS/HTML | [Link](https://caocmai.github.io/tip-calc-v2/) | Solo | 
 | [To The Moon](https://github.com/caocmai/to-the-moon) | HTML/CSS | [Link](https://caocmai.github.io/to-the-moon/) | Solo |
+| [GifSearchJS](https://github.com/caocmai/gif-search) | JS/HTML | [Link](https://caocmai.github.io/gif-search/) | Solo |
+| [GifSearch](https://github.com/NinjaAung/gifSearch) | Flask/CSS | N/A | Team | 
+| [Clone Website](https://github.com/caocmai/Clone-URL) | HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
+| [Capstone Page](https://github.com/caocmai/Capstone) | HTML/CSS | [Link](https://caocmai.github.io/Capstone/) | Solo |
+| [Tip Calc](https://github.com/caocmai/tip-calc-v2) | JS/HTML | [Link](https://caocmai.github.io/tip-calc-v2/) | Solo | 
 
