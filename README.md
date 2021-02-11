@@ -4,7 +4,7 @@
 </p>
 
 ## About Me
-Mostly build iOS apps but sometimes dabble in web apps as well. [View portfolio](https://www.makeschool.com/portfolio/cao-mai)
+Mostly build iOS apps but sometimes work on web apps as well. [View portfolio](https://www.makeschool.com/portfolio/cao-mai)
 
 
 #### Sample Projects
