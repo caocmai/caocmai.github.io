@@ -38,6 +38,6 @@ Mostly build iOS apps but sometimes work on web apps as well. [View portfolio](h
 | [Clone Website](https://github.com/caocmai/Clone-URL) | HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
 | [Capstone Page](https://github.com/caocmai/Capstone) | HTML/CSS | [Link](https://caocmai.github.io/Capstone/) | Solo |
 | [Tip Calc](https://github.com/caocmai/tip-calc-v2) | JS/HTML | [Link](https://caocmai.github.io/tip-calc-v2/) | Solo | 
-| [Frist Android](https://github.com/caocmai/my-first-android-app) | Kotlin | N/A | Solo | 
+| [First Android](https://github.com/caocmai/my-first-android-app) | Kotlin | N/A | Solo | 
 | [GifSearch](https://github.com/caocmai/giphy-search-ios) | Swift | N/A | Solo |
 
