@@ -49,6 +49,19 @@ Mostly build iOS apps but sometimes work on web apps as well. [View portfolio](h
 | [Pokemon API](https://github.com/caocmai/mob1.3-fetching-from-api) | Swift | N/A | Solo |
 
 
+#### Connect With Me
+
+[<img align="left" alt="caocmai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="caocmai | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/medium.svg" />][medium]
+
+<br/>
+<br/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=caocmai.caocmai)
+
+
+[linkedin]: https://www.linkedin.com/in/caocmai/
+[medium]: https://cao-mai.medium.com/
 
 
 
