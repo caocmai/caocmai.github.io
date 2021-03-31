@@ -53,6 +53,7 @@ Mostly build iOS apps but sometimes work on web apps as well. [View portfolio](h
 
 [<img align="left" alt="caocmai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="caocmai | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/medium.svg" />][medium]
+[<img align="left" alt="caocmai | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][github]
 
 <br/>
 <br/>
@@ -62,6 +63,7 @@ Mostly build iOS apps but sometimes work on web apps as well. [View portfolio](h
 
 [linkedin]: https://www.linkedin.com/in/caocmai/
 [medium]: https://cao-mai.medium.com/
+[github]: https://github.com/caocmai/
 
 
 
