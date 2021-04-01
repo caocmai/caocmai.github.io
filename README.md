@@ -16,6 +16,7 @@ Mostly build iOS apps but sometimes work on web apps as well. [View portfolio](h
 | [Taskee](https://github.com/caocmai/taskee-app)               | Swift             | N/A          | Solo |
 | [Batch Rename](https://github.com/caocmai/Batch-Rename)        | Go                | N/A          | Solo | 
 | [Web Scraper](https://github.com/caocmai/Web-Scraper)         | Go                  | N/A         | Solo  |
+| [Hang Helper](https://github.com/caocmai/HangHelper)         | Swift                  | N/A         | Solo  |
 | [Custom Framework](https://github.com/caocmai/custom-css-framework)               | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         | Solo |
 | [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb) | ReactJS         | [Link](https://caocmai.github.io/react-themoviedb) | Solo |
 | [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Team |
