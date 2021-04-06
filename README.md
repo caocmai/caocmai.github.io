@@ -11,11 +11,11 @@ Mostly build iOS apps but sometimes work on web apps as well. [View portfolio](h
 
 | Project Name                                                  | Tech Stack        | Live Link         | Team/Solo|
 | :---                                                          | :---:             | ---:              | ---:          |
-| [Breakout Game](https://github.com/caocmai/breakout-game)     | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
 | [SpotiFav](https://github.com/caocmai/spotiFav)               | Swift             | N/A          | Solo | 
 | [Taskee](https://github.com/caocmai/taskee-app)               | Swift             | N/A          | Solo |
 | [Batch Rename](https://github.com/caocmai/Batch-Rename)        | Go                | N/A          | Solo | 
 | [Web Scraper](https://github.com/caocmai/Web-Scraper)         | Go                  | N/A         | Solo  |
+| [Breakout Game](https://github.com/caocmai/breakout-game)     | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
 | [Hang Helper](https://github.com/caocmai/HangHelper)         | Swift                  | N/A         | Solo  |
 | [Custom Framework](https://github.com/caocmai/custom-css-framework)               | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         | Solo |
 | [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb) | ReactJS         | [Link](https://caocmai.github.io/react-themoviedb) | Solo |
