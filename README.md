@@ -4,7 +4,7 @@
 </p>
 
 ## About Me
-Mostly build iOS apps but sometimes work on web apps as well. [View portfolio](https://www.makeschool.com/portfolio/cao-mai)
+I enjoy working with other people to solve coding problems or develop projects. I like to build user friendly iOS app and web apps. [View portfolio](https://www.makeschool.com/portfolio/cao-mai) or my [Github](https://github.com/caocmai) for all my projects.
 
 
 #### Sample Projects
