@@ -4,7 +4,7 @@
 </p>
 
 ## About Me
-I enjoy working with other people to solve coding problems or develop projects. I like to build user friendly iOS app and web apps. [View portfolio](https://www.makeschool.com/portfolio/cao-mai) or my [Github](https://github.com/caocmai) for all my projects.
+I enjoy working with other people to solve coding problems or develop projects. I like to build user friendly iOS and web apps or various tools to eliminate tedious/repetitive tasks. [View portfolio](https://www.makeschool.com/portfolio/cao-mai) or my [Github](https://github.com/caocmai) for all my projects.
 
 
 #### Sample Projects
