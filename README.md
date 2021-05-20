@@ -13,6 +13,7 @@ I enjoy working with other people to solve coding problems or develop projects. 
 | :---                                                          | :---:             | ---:              | ---:          |
 | [Digit Converter](https://github.com/caocmai/Digit-Converter)               | JS             | N/A          | Solo |
 | [Taskee](https://github.com/caocmai/taskee-app)               | Swift             | N/A          | Solo |
+| [Trivia Time](https://github.com/caocmai/TriviaTime)               | Swift             | N/A          | Solo |
 | [SpotiFav](https://github.com/caocmai/spotiFav)               | Swift             | N/A          | Solo | 
 | [Batch Rename](https://github.com/caocmai/Batch-Rename)        | Go                | N/A          | Solo | 
 | [Web Scraper](https://github.com/caocmai/Web-Scraper)         | Go                  | N/A         | Solo  |
