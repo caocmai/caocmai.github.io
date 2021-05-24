@@ -24,6 +24,7 @@ I enjoy working with other people to solve coding problems or develop projects. 
 | [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Team |
 | [Drinking Fountain API](https://github.com/caocmai/drinking-fountains-api) | NodeJS | N/A | Solo |
 | [Maker](https://github.com/caocmai/maker) | Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) | Team |
+| [Rock Paper Scissors](https://github.com/caocmai/RockPaperScissorsGame) | Swift | N/A | Solo |
 | [Get News](https://github.com/caocmai/get-news-app) | Swift | N/A | Solo |
 | [Next Chord](https://github.com/caocmai/next-chord) | Swift | N/A | Solo |
 | [Takk-Token](https://github.com/ellojess/Takk-Token) | Solidity | N/A | Team |
