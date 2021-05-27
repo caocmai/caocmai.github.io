@@ -11,7 +11,7 @@ I enjoy working with other people to solve coding problems or develop projects. 
 
 | Project Name                                                  | Tech Stack        | Live Link         | Team/Solo|
 | :---                                                          | :---:             | ---:              | ---:          |
-| [Digit Converter](https://github.com/caocmai/Digit-Converter)               | JS             | N/A          | Solo |
+| [Digit Converter](https://github.com/caocmai/Digit-Converter)               | Node.js             | N/A          | Solo |
 | [Taskee](https://github.com/caocmai/taskee-app)               | Swift             | N/A          | Solo |
 | [Trivia Time](https://github.com/caocmai/TriviaTime)               | Swift             | N/A          | Solo |
 | [SpotiFav](https://github.com/caocmai/spotiFav)               | Swift             | N/A          | Solo | 
