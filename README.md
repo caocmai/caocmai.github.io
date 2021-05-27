@@ -13,7 +13,7 @@ I enjoy working with other people to solve coding problems or develop projects. 
 | :---                                                          | :---:             | ---:              | ---:          |
 | [Digit Converter](https://github.com/caocmai/Digit-Converter)               | Node.js             | N/A          | Solo |
 | [Taskee](https://github.com/caocmai/taskee-app)               | Swift             | N/A          | Solo |
-| [Trivia Time](https://github.com/caocmai/TriviaTime)               | Swift             | N/A          | Solo |
+| [Trivia Time](https://github.com/caocmai/TriviaTime)               | SwiftUI             | N/A          | Solo |
 | [SpotiFav](https://github.com/caocmai/spotiFav)               | Swift             | N/A          | Solo | 
 | [Batch Rename](https://github.com/caocmai/Batch-Rename)        | Golang                | N/A          | Solo | 
 | [Web Scraper](https://github.com/caocmai/Web-Scraper)         | Golang                  | N/A         | Solo  |
@@ -24,7 +24,7 @@ I enjoy working with other people to solve coding problems or develop projects. 
 | [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Team |
 | [Drinking Fountain API](https://github.com/caocmai/drinking-fountains-api) | NodeJS | N/A | Solo |
 | [Maker](https://github.com/caocmai/maker) | Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) | Team |
-| [Rock Paper Scissors](https://github.com/caocmai/RockPaperScissorsGame) | Swift | N/A | Solo |
+| [Rock Paper Scissors](https://github.com/caocmai/RockPaperScissorsGame) | SwiftUI | N/A | Solo |
 | [Get News](https://github.com/caocmai/get-news-app) | Swift | N/A | Solo |
 | [Next Chord](https://github.com/caocmai/next-chord) | Swift | N/A | Solo |
 | [Takk-Token](https://github.com/ellojess/Takk-Token) | Solidity | N/A | Team |
