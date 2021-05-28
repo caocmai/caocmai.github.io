@@ -9,9 +9,9 @@ I enjoy working with other people to solve coding problems or develop projects. 
 
 #### Sample Projects
 
-| Project Name                                                  | Tech Stack        | Live Link         | Team/Solo|
-| :---                                                          | :---:             | ---:              | ---:          |
-| [Digit Converter](https://github.com/caocmai/Digit-Converter) <br/> *Converts integer to text.*  | Node.js             | N/A          | Solo |
+| Project Name                                                  | Tech Stack        | Live Link         | Team/Solo |   Description      |
+| :---                                                          | :---:             | ---:              | ---:          | :--- |
+| [Digit Converter](https://github.com/caocmai/Digit-Converter) | Node.js             | N/A          | Solo | NPM module to convert a number to its English representation. |
 | [Taskee](https://github.com/caocmai/taskee-app)               | Swift             | N/A          | Solo |
 | [Trivia Time](https://github.com/caocmai/TriviaTime)               | SwiftUI             | N/A          | Solo |
 | [SpotiFav](https://github.com/caocmai/spotiFav)               | Swift             | N/A          | Solo | 
