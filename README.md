@@ -11,9 +11,11 @@ I enjoy working with other people to solve coding problems or develop projects. 
 
 | Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
-| [Digit Converter](https://github.com/caocmai/Digit-Converter)| NPM module to convert a number to its English representation. | Node.js             | N/A          | Solo | 
-| [Taskee](https://github.com/caocmai/taskee-app)             |  | Swift             | N/A          | Solo |
-| [Trivia Time](https://github.com/caocmai/TriviaTime)           |   | SwiftUI             | N/A          | Solo |
+| [Digit Converter](https://github.com/caocmai/Digit-Converter)| NPM module to convert a number to its English representation. 
+| Node.js             | N/A          | Solo | 
+| [Taskee](https://github.com/caocmai/taskee-app)             | Taskee is an app where the user can create and modify projects along with their tasks. | Swift             | N/A          | Solo |
+| [Trivia Time](https://github.com/caocmai/TriviaTime)           | A trivia iOS app written in SwiftUI
+ | SwiftUI             | N/A          | Solo |
 | [SpotiFav](https://github.com/caocmai/spotiFav)             |  | Swift             | N/A          | Solo | 
 | [Batch Rename](https://github.com/caocmai/Batch-Rename)     |   | Golang                | N/A          | Solo | 
 | [Web Scraper](https://github.com/caocmai/Web-Scraper)       |  | Golang                  | N/A         | Solo  |
