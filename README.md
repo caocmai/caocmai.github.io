@@ -13,26 +13,26 @@ I enjoy working with other people to solve coding problems or develop projects. 
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
 | [Digit Converter](https://github.com/caocmai/Digit-Converter)| NPM module to convert a number to its English representation. | Node.js             | N/A          | Solo | 
 | [Taskee](https://github.com/caocmai/taskee-app)             | An iOS app using Core Data to keep track of projects along with their associated tasks. | Swift             | N/A          | Solo |
-| [Trivia Time](https://github.com/caocmai/TriviaTime)           | A trivia iOS app written in SwiftUI | SwiftUI             | N/A          | Solo |
-| [SpotiFav](https://github.com/caocmai/spotiFav)             | An iOS app to authenticate as well as perform GET and POST calls to the Spotify Web API | Swift             | N/A          | Solo | 
+| [Trivia Time](https://github.com/caocmai/TriviaTime)           | A trivia iOS app written in SwiftUI. | SwiftUI             | N/A          | Solo |
+| [SpotiFav](https://github.com/caocmai/spotiFav)             | An iOS app to authenticate as well as perform GET and POST calls to the Spotify Web API. | Swift             | N/A          | Solo | 
 | [Batch Rename](https://github.com/caocmai/Batch-Rename)     | A Go program that renames all files of specified file type and stores them into a new folder. | Golang                | N/A          | Solo | 
-| [Web Scraper](https://github.com/caocmai/Web-Scraper)       | Web scraper using Colly and Go to scrape calories.info | Golang                  | N/A         | Solo  |
-| [Breakout Game](https://github.com/caocmai/breakout-game)   |  | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
-| [Hang Helper](https://github.com/caocmai/HangHelper)        | | Swift                  | N/A         | Solo  |
-| [Custom Framework](https://github.com/caocmai/custom-css-framework)             |  | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         | Solo |
-| [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb)  | | ReactJS         | [Link](https://caocmai.github.io/react-themoviedb) | Solo |
-| [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) |  | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Team |
-| [Drinking Fountain API](https://github.com/caocmai/drinking-fountains-api) |  | NodeJS | N/A | Solo |
-| [Maker](https://github.com/caocmai/maker) |  | Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) | Team |
-| [Rock Paper Scissors](https://github.com/caocmai/RockPaperScissorsGame) |  | SwiftUI | N/A | Solo |
-| [Get News](https://github.com/caocmai/get-news-app) |  | Swift | N/A | Solo |
-| [Next Chord](https://github.com/caocmai/next-chord) |  | Swift | N/A | Solo |
-| [Takk-Token](https://github.com/ellojess/Takk-Token) | | Solidity | N/A | Team |
-| [Open Weather API](https://github.com/caocmai/open-weather-api) |   | Swift | N/A | Solo
-| [PLU Trainer](https://github.com/MondaleFelix/PLUTrainer) |  | Swift | N/A | Team |
-| [RecorderPlus](https://github.com/caocmai/Recorder-Plus) |  | Swift | N/A | Solo |
-| [Die Roller](https://github.com/caocmai/die-roller) |  | Kotlin | N/A | Solo |
-| [Django+React+Heroku](https://github.com/caocmai/django-react-heroku) |  | Django/React | [Link](https://cm-react-test6.herokuapp.com/) | Solo | 
+| [Web Scraper](https://github.com/caocmai/Web-Scraper)       | Web scraper using Colly and Go to scrape calories.info. | Golang                  | N/A         | Solo  |
+| [Breakout Game](https://github.com/caocmai/breakout-game)   | A modified breakout game, sourced from Mozilla Developer. | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
+| [Hang Helper](https://github.com/caocmai/HangHelper)        | An iOS app using ARKit to overlay a grid on wall. | Swift                  | N/A         | Solo  |
+| [Custom Framework](https://github.com/caocmai/custom-css-framework)    | My simple custom CSS framework. | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         | Solo |
+| [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb)  | React app that grabs content from themoviedb API and displays them. | ReactJS         | [Link](https://caocmai.github.io/react-themoviedb) | Solo |
+| [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | A questions based game to promote carbon neutral living. | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Team |
+| [Drinking Fountain API](https://github.com/caocmai/drinking-fountains-api) | My custom API to view/create drinking fountain locations.  | NodeJS | N/A | Solo |
+| [Maker](https://github.com/caocmai/maker) | A dating web app .| Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) | Team |
+| [Rock Paper Scissors](https://github.com/caocmai/RockPaperScissorsGame) | Rock paper scissors game | SwiftUI | N/A | Solo |
+| [Get News](https://github.com/caocmai/get-news-app) | An iOS app to retrieve and display the latest headlines from the News API.  | Swift | N/A | Solo |
+| [Next Chord](https://github.com/caocmai/next-chord) | An iOS app to find the next chord to aid in music writing/improvising. | Swift | N/A | Solo |
+| [Takk-Token](https://github.com/ellojess/Takk-Token) | Blockchain app using Etherium Smart Contracts. | Solidity | N/A | Team |
+| [Open Weather API](https://github.com/caocmai/open-weather-api) | A simple app that displays weather information using the open weather api.  | Swift | N/A | Solo
+| [PLU Trainer](https://github.com/MondaleFelix/PLUTrainer) | An iOS app using CoreML to recongize content in an image. | Swift | N/A | Team |
+| [RecorderPlus](https://github.com/caocmai/Recorder-Plus) | An organized audio recording iOS app. | Swift | N/A | Solo |
+| [Die Roller](https://github.com/caocmai/die-roller) | A simple Android app to randomly roll a die. | Kotlin | N/A | Solo |
+| [Django+React+Heroku](https://github.com/caocmai/django-react-heroku) | A boilerplate Django+React with CSS/Bootstrap. | Django/React | [Link](https://cm-react-test6.herokuapp.com/) | Solo | 
 | ------ | ----- | ---- | ----- | ----- |
 
 #### Older Projects
