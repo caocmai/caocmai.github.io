@@ -12,11 +12,17 @@ I enjoy working with other people to solve coding problems or develop projects. 
 | Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
 | [Digit Converter](https://github.com/caocmai/Digit-Converter)| NPM module to convert a number to its English representation. | Node.js             | N/A          | Solo | 
-| [Taskee](https://github.com/caocmai/taskee-app)             | Todo iOS app | Swift             | N/A          | Solo |
+| [Taskee](https://github.com/caocmai/taskee-app)             | An iOS app using Core Data to keep track of projects along with their associated tasks.
+
+| Swift             | N/A          | Solo |
 | [Trivia Time](https://github.com/caocmai/TriviaTime)           | A trivia iOS app written in SwiftUI | SwiftUI             | N/A          | Solo |
-| [SpotiFav](https://github.com/caocmai/spotiFav)             |  | Swift             | N/A          | Solo | 
-| [Batch Rename](https://github.com/caocmai/Batch-Rename)     |   | Golang                | N/A          | Solo | 
-| [Web Scraper](https://github.com/caocmai/Web-Scraper)       |  | Golang                  | N/A         | Solo  |
+| [SpotiFav](https://github.com/caocmai/spotiFav)             | An iOS app to authenticate as well as perform GET and POST calls to the Spotify Web API | Swift             | N/A          | Solo | 
+| [Batch Rename](https://github.com/caocmai/Batch-Rename)     | A Go program that renames all files of specified file type and stores them into a new folder.
+
+  | Golang                | N/A          | Solo | 
+| [Web Scraper](https://github.com/caocmai/Web-Scraper)       | Web scraper using Colly and Go to scrape calories.info
+
+ | Golang                  | N/A         | Solo  |
 | [Breakout Game](https://github.com/caocmai/breakout-game)   |  | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
 | [Hang Helper](https://github.com/caocmai/HangHelper)        | | Swift                  | N/A         | Solo  |
 | [Custom Framework](https://github.com/caocmai/custom-css-framework)             |  | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         | Solo |
