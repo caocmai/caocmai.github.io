@@ -7,7 +7,7 @@
 I enjoy working with other people to solve coding problems or develop projects. I like to build user friendly iOS and web apps or various tools to eliminate tedious/repetitive tasks. [View portfolio](https://www.makeschool.com/portfolio/cao-mai) for some highlighted projects or my [Github](https://github.com/caocmai) for more projects.
 
 
-#### Sample Projects
+#### Recent Projects
 Here are some of my highlighted projects.
 
 | Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
@@ -34,7 +34,7 @@ Here are some of my highlighted projects.
 | [RecorderPlus](https://github.com/caocmai/Recorder-Plus) | *An organized audio recording iOS app.* | Swift | N/A | Solo |
 | [Die Roller](https://github.com/caocmai/die-roller) | *A simple Android app to randomly roll a die.* | Kotlin | N/A | Solo |
 | [Django+React+Heroku](https://github.com/caocmai/django-react-heroku) | *A boilerplate Django+React with CSS/Bootstrap.* | Django/React | [Link](https://cm-react-test6.herokuapp.com/) | Solo | 
-<!-- | ------ | ----- | ---- | ----- | ----- | -->
+
 
 #### Older Projects
 
