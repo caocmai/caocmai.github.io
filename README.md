@@ -40,11 +40,11 @@ Here are some of my highlighted projects.
 
 | Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
-| [To The Moon](https://github.com/caocmai/to-the-moon) | | HTML/CSS | [Link](https://caocmai.github.io/to-the-moon/) | Solo |
-| [Rent Out Space](https://github.com/caocmai/renting-out-space-v2) | | Django/Bootstrap | [Link](https://renting-out-space-new.herokuapp.com/) | Solo |
-| [GifSearchJS](https://github.com/caocmai/gif-search) | | JS/HTML | [Link](https://caocmai.github.io/gif-search/) | Solo |
-| [GifSearch](https://github.com/NinjaAung/gifSearch) | | Flask/CSS | N/A | Team | 
-| [Clone Website](https://github.com/caocmai/Clone-URL) | | HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
+| [To The Moon](https://github.com/caocmai/to-the-moon) | *A one page informational webpage about vacationing on the moon.* | HTML/CSS | [Link](https://caocmai.github.io/to-the-moon/) | Solo |
+| [Rent Out Space](https://github.com/caocmai/renting-out-space-v2) | *A  website where users can post listings of unused spaces they want to rent out.* | Django/Bootstrap | [Link](https://renting-out-space-new.herokuapp.com/) | Solo |
+| [GifSearchJS](https://github.com/caocmai/gif-search) |*A webpage to search for gifs using only Javascript.* | JS/HTML | [Link](https://caocmai.github.io/gif-search/) | Solo |
+| [GifSearch](https://github.com/NinjaAung/gifSearch) |*A webpage to search for gifs using Flask.*| Flask/CSS | N/A | Team | 
+| [Clone Website](https://github.com/caocmai/Clone-URL) | *Using Bootstrap to clone www.hersheys.com.*| HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
 | [Capstone Page](https://github.com/caocmai/Capstone) | | HTML/CSS | [Link](https://caocmai.github.io/Capstone/) | Solo |
 | [Tip Calc](https://github.com/caocmai/tip-calc-v2) | | JS/HTML | [Link](https://caocmai.github.io/tip-calc-v2/) | Solo | 
 | [First Android](https://github.com/caocmai/my-first-android-app) | | Kotlin | N/A | Solo | 
