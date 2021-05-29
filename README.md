@@ -34,7 +34,7 @@ Here are some of my highlighted projects.
 | [RecorderPlus](https://github.com/caocmai/Recorder-Plus) | *An organized audio recording iOS app.* | Swift | N/A | Solo |
 | [Die Roller](https://github.com/caocmai/die-roller) | *A simple Android app to randomly roll a die.* | Kotlin | N/A | Solo |
 | [Django+React+Heroku](https://github.com/caocmai/django-react-heroku) | *A boilerplate Django+React with CSS/Bootstrap.* | Django/React | [Link](https://cm-react-test6.herokuapp.com/) | Solo | 
-| ------ | ----- | ---- | ----- | ----- |
+<!-- | ------ | ----- | ---- | ----- | ----- | -->
 
 #### Older Projects
 
@@ -45,13 +45,13 @@ Here are some of my highlighted projects.
 | [GifSearchJS](https://github.com/caocmai/gif-search) |*A webpage to search for gifs using only Javascript.* | JS/HTML | [Link](https://caocmai.github.io/gif-search/) | Solo |
 | [GifSearch](https://github.com/NinjaAung/gifSearch) |*A webpage to search for gifs using Flask.*| Flask/CSS | N/A | Team | 
 | [Clone Website](https://github.com/caocmai/Clone-URL) | *Using Bootstrap to clone www.hersheys.com.*| HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
-| [Capstone Page](https://github.com/caocmai/Capstone) | | HTML/CSS | [Link](https://caocmai.github.io/Capstone/) | Solo |
-| [Tip Calc](https://github.com/caocmai/tip-calc-v2) | | JS/HTML | [Link](https://caocmai.github.io/tip-calc-v2/) | Solo | 
-| [First Android](https://github.com/caocmai/my-first-android-app) | | Kotlin | N/A | Solo | 
-| [GifSearch](https://github.com/caocmai/giphy-search-ios) | | Swift | N/A | Solo |
-| [Pomodoro](https://github.com/caocmai/mob1-3-pomodoro) | | Swift | N/A | Solo |
-| [Product Hunt](https://github.com/caocmai/product-hunt) | | Swift | N/A | Solo |
-| [Pokemon API](https://github.com/caocmai/mob1.3-fetching-from-api) | | Swift | N/A | Solo |
+| [Capstone Page](https://github.com/caocmai/Capstone) | *A website showcasing various dynamic HTML components.* | HTML/CSS | [Link](https://caocmai.github.io/Capstone/) | Solo |
+| [Tip Calc](https://github.com/caocmai/tip-calc-v2) | *An HTML tip calculator.* | JS/HTML | [Link](https://caocmai.github.io/tip-calc-v2/) | Solo | 
+| [First Android](https://github.com/caocmai/my-first-android-app) | *My first android app.*| Kotlin | N/A | Solo | 
+| [GifSearch](https://github.com/caocmai/giphy-search-ios) | *An iOS app that fetches and displays gifs.*| Swift | N/A | Solo |
+| [Pomodoro](https://github.com/caocmai/mob1-3-pomodoro) | *An iOS app showing Pomodoro cycles using Swift's NotificationCenter.*| Swift | N/A | Solo |
+| [Product Hunt](https://github.com/caocmai/product-hunt) | *An iOS app on retrieving and using data from the Product Hunt API.* | Swift | N/A | Solo |
+| [Pokemon API](https://github.com/caocmai/mob1.3-fetching-from-api) | *A demonstration of fetching and using data from the Pokemon API in an iOS app.*| Swift | N/A | Solo |
 
 
 #### Connect With Me
