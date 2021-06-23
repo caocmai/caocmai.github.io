@@ -25,7 +25,7 @@ Here are some of my highlighted projects.
 | [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb)  | *React app that grabs content from themoviedb API and displays them.* | ReactJS/Docker         | [Link](https://caocmai.github.io/react-themoviedb) | Solo |
 | [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | *A questions based game to promote carbon neutral living.* | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Team |
 | [Drinking Fountain API](https://github.com/caocmai/drinking-fountains-api) | *My custom API to view/create drinking fountain locations.*  | NodeJS | N/A | Solo |
-| [Maker](https://github.com/caocmai/maker) | *A dating web app.* | Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) | Team |
+| [Maker](https://github.com/caocmai/maker) | *A dating web app.* | Django/Sqlite3 | [Link](https://maker-s-a.herokuapp.com/) | Team |
 | [Rent Out Space V2](https://github.com/caocmai/renting-out-space-v2) | *A  website where users can post listings of unused spaces they want to rent out.* | Django/Sqlite3 | [Link](https://renting-out-space-new.herokuapp.com/) | Solo |
 | [Rock Paper Scissors](https://github.com/caocmai/RockPaperScissorsGame) | *Rock paper scissors game.* | SwiftUI | N/A | Solo |
 | [Get News](https://github.com/caocmai/get-news-app) | *An iOS app to retrieve and display the latest headlines from the News API.*  | Swift | N/A | Solo |
