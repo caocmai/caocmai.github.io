@@ -22,7 +22,7 @@ Here are some of my highlighted projects.
 | [Breakout Game](https://github.com/caocmai/breakout-game)   | *A modified breakout game, sourced from Mozilla Developer.* | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
 | [Hang Helper](https://github.com/caocmai/HangHelper)        | *An iOS app using ARKit to overlay a grid on wall.* | Swift                  | N/A         | Solo  |
 | [Custom Framework](https://github.com/caocmai/custom-css-framework)    | *My simple custom CSS framework.* | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         | Solo |
-| [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb)  | *React app that grabs content from themoviedb API and displays them.* | ReactJS         | [Link](https://caocmai.github.io/react-themoviedb) | Solo |
+| [React+themoviedbAPI](https://github.com/caocmai/react-themoviedb)  | *React app that grabs content from themoviedb API and displays them.* | ReactJS/Docker         | [Link](https://caocmai.github.io/react-themoviedb) | Solo |
 | [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | *A questions based game to promote carbon neutral living.* | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Team |
 | [Drinking Fountain API](https://github.com/caocmai/drinking-fountains-api) | *My custom API to view/create drinking fountain locations.*  | NodeJS | N/A | Solo |
 | [Maker](https://github.com/caocmai/maker) | *A dating web app.* | Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) | Team |
