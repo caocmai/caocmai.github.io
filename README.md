@@ -45,7 +45,7 @@ Here are some of my highlighted projects.
 | [To The Moon](https://github.com/caocmai/to-the-moon) | *A one page informational webpage about vacationing on the moon.* | HTML/CSS | [Link](https://caocmai.github.io/to-the-moon/) | Solo |
 | [GifSearchJS](https://github.com/caocmai/gif-search) |*A webpage to search for gifs using only Javascript.* | JS/HTML | [Link](https://caocmai.github.io/gif-search/) | Solo |
 | [GifSearch](https://github.com/NinjaAung/gifSearch) |*A webpage to search for gifs using Flask.*| Flask/CSS | N/A | Team | 
-| [Clone Website](https://github.com/caocmai/Clone-URL) | *Using Bootstrap to clone www.hersheys.com.*| HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
+| [Clone Website](https://github.com/caocmai/Clone-URL) | *Using Bootstrap to clone www.hersheys.com.*| Bootstrap/CSS | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
 | [Capstone Page](https://github.com/caocmai/Capstone) | *A website showcasing various dynamic HTML components.* | HTML/CSS | [Link](https://caocmai.github.io/Capstone/) | Solo |
 | [Tip Calc](https://github.com/caocmai/tip-calc-v2) | *An HTML tip calculator.* | JS/HTML | [Link](https://caocmai.github.io/tip-calc-v2/) | Solo | 
 | [First Android](https://github.com/caocmai/my-first-android-app) | *My first android app.*| Kotlin | N/A | Solo | 
