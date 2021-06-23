@@ -26,6 +26,7 @@ Here are some of my highlighted projects.
 | [Carbon0](https://github.com/Carbon0-Games/carbon0-web-app) | *A questions based game to promote carbon neutral living.* | Django/React/...  | [Link](https://carbon0.herokuapp.com/) | Team |
 | [Drinking Fountain API](https://github.com/caocmai/drinking-fountains-api) | *My custom API to view/create drinking fountain locations.*  | NodeJS | N/A | Solo |
 | [Maker](https://github.com/caocmai/maker) | *A dating web app.* | Django/Bootstrap | [Link](https://maker-s-a.herokuapp.com/) | Team |
+| [Rent Out Space V2](https://github.com/caocmai/renting-out-space-v2) | *A  website where users can post listings of unused spaces they want to rent out.* | Django/Sqlite3 | [Link](https://renting-out-space-new.herokuapp.com/) | Solo |
 | [Rock Paper Scissors](https://github.com/caocmai/RockPaperScissorsGame) | *Rock paper scissors game.* | SwiftUI | N/A | Solo |
 | [Get News](https://github.com/caocmai/get-news-app) | *An iOS app to retrieve and display the latest headlines from the News API.*  | Swift | N/A | Solo |
 | [Next Chord](https://github.com/caocmai/next-chord) | *An iOS app to find the next chord to aid in music writing/improvising.* | Swift | N/A | Solo |
@@ -42,7 +43,6 @@ Here are some of my highlighted projects.
 | Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
 | [To The Moon](https://github.com/caocmai/to-the-moon) | *A one page informational webpage about vacationing on the moon.* | HTML/CSS | [Link](https://caocmai.github.io/to-the-moon/) | Solo |
-| [Rent Out Space](https://github.com/caocmai/renting-out-space-v2) | *A  website where users can post listings of unused spaces they want to rent out.* | Django/Bootstrap | [Link](https://renting-out-space-new.herokuapp.com/) | Solo |
 | [GifSearchJS](https://github.com/caocmai/gif-search) |*A webpage to search for gifs using only Javascript.* | JS/HTML | [Link](https://caocmai.github.io/gif-search/) | Solo |
 | [GifSearch](https://github.com/NinjaAung/gifSearch) |*A webpage to search for gifs using Flask.*| Flask/CSS | N/A | Team | 
 | [Clone Website](https://github.com/caocmai/Clone-URL) | *Using Bootstrap to clone www.hersheys.com.*| HTML/CSS  | [Link](https://caocmai.github.io/Clone-URL/) | Solo |
