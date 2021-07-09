@@ -12,6 +12,7 @@ Here are some of my highlighted and ongoing projects.
 
 | Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
+| [Banking API](https://github.com/caocmai/Banking-API)   | *Java RESTful Banking API serving banking needs* | Java/Postgres | Solo | 
 | [Digit Converter](https://github.com/caocmai/Digit-Converter)| *NPM module to convert a number to its English representation.* | Node.js             | N/A          | Solo | 
 | [Taskee](https://github.com/caocmai/taskee-app)             | *An iOS app using Core Data to keep track of projects along with their associated tasks.* | Swift             | N/A          | Solo |
 | [Trivia Time](https://github.com/caocmai/TriviaTime)           | *A trivia iOS app written in SwiftUI.* | SwiftUI             | N/A          | Solo |
