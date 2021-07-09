@@ -12,6 +12,7 @@ Here are some of my highlighted and ongoing projects.
 
 | Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
+| [100 Days SwiftUI Challange](https://github.com/caocmai/SwiftUI-Challenge) | *Working on hackingwithswift.com's 100 Days SwiftUI Challange. Currently on day 50.* | SwiftUI | N/A | Solo | 
 | [Banking API](https://github.com/caocmai/Banking-API)   | *Java RESTful Banking API serving banking needs* | Java/Postgres | N/A |  Solo |
 | [Digit Converter](https://github.com/caocmai/Digit-Converter)| *NPM module to convert a number to its English representation.* | Node.js             | N/A          | Solo | 
 | [Taskee](https://github.com/caocmai/taskee-app)             | *An iOS app using Core Data to keep track of projects along with their associated tasks.* | Swift             | N/A          | Solo |
@@ -20,7 +21,6 @@ Here are some of my highlighted and ongoing projects.
 | [Batch Rename](https://github.com/caocmai/Batch-Rename)     | *A Go program that renames all files of specified file type and stores them into a new folder.* | Golang                | N/A          | Solo | 
 | [Web Scraper](https://github.com/caocmai/Web-Scraper)       | *Web scraper using Colly and Go to scrape calories.info.* | Golang                  | N/A         | Solo  |
 | [Unit Converter](https://github.com/caocmai/Unit-Converter) | *A small console based Java project to convert between various units.* | Java | N/A | Solo |
-| [100 Days SwiftUI Challange](https://github.com/caocmai/SwiftUI-Challenge) | *Working on hackingwithswift.com's 100 Days SwiftUI Challange. Currently on day 50.* | SwiftUI | N/A | Solo | 
 | [Breakout Game](https://github.com/caocmai/breakout-game)   | *A modified breakout game, sourced from Mozilla Developer.* | Javascript        | [Play](https://caomai.live/breakout-game/)        |Solo |
 | [Hang Helper](https://github.com/caocmai/HangHelper)        | *An iOS app using ARKit to overlay a grid on wall.* | Swift                  | N/A         | Solo  |
 | [Custom Framework](https://github.com/caocmai/custom-css-framework)    | *My simple custom CSS framework.* | SASS/JS             | [Link](https://caomai.live/custom-css-framework/)         | Solo |
