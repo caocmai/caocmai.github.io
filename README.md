@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Cao](https://www.makeschool.com/portfolio/cao-mai)
+# Hi 👋, I'm [Cao](https://github.com/caocmai)
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=caocmai&show_icons=true&title_color=fff&icon_color=ffbb00&text_color=9f9f9f&bg_color=151515" alt="my github stats" width="445"/>
 </p>
@@ -13,7 +13,7 @@ Here are some of my highlighted and ongoing projects.
 | Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
 | [Tution Reimbursement](https://github.com/caocmai/Tuition-Reimbursement)                      | *Tuition reimbursement mangament system.* | Java/Hiberate   | N/A           | Solo |
-| [Tutor Management System](https://github.com/caocmai/Tuition-Reimbursement)                      | *Tutor mangament system.* | Java/Angular   | N/A           | Team |
+| [Tutor Management System](https://github.com/jhupprevature/rev-TutorMS)                      | *Tutor mangament system.* | Java/Angular   | N/A           | Team |
 | [100 Days SwiftUI Challange](https://github.com/caocmai/SwiftUI-Challenge) | *Working on hackingwithswift.com's 100 Days SwiftUI Challange. Currently on day 50.* | SwiftUI | N/A | Solo | 
 | [Banking API](https://github.com/caocmai/Banking-API)   | *Java RESTful Banking API serving banking needs* | Java/Postgres | N/A |  Solo |
 | [Digit Converter](https://github.com/caocmai/Digit-Converter)| *NPM module to convert a number to its English representation.* | Node.js             | N/A          | Solo | 
