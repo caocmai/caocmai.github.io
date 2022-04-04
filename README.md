@@ -10,7 +10,7 @@ I enjoy working with other people to solve coding problems or develop projects. 
 #### Recent Projects
 Here are some of my highlighted projects.
 
-| Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
+| Project Name                                              | Summary          | Tech Stack        | Live Link         | Team/Solo |  
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
 | [Tution Reimbursement](https://github.com/caocmai/Tuition-Reimbursement)                      | *Tuition reimbursement mangament system.* | Java/Hiberate   | N/A           | Solo |
 | [Overcharge](https://github.com/Revature-Overcharge/rev-Overcharge) | *A Flash card website to create and view flash card sets* | Java/Angular | [Link](http://overcharge.s3-website.us-east-1.amazonaws.com/) | Team |
