@@ -8,7 +8,7 @@ I enjoy working with other people to solve coding problems or develop projects. 
 
 
 #### Recent Projects
-Here are some of my highlighted and ongoing projects.
+Here are some of my highlighted projects.
 
 | Project Name                                              | Description          | Tech Stack        | Live Link         | Team/Solo |  
 | :---                                                      |:---     | :---:             | ---:              | ---:          | 
